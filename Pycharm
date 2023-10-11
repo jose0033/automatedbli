@@ -59,7 +59,7 @@ Happy to connect too,'''
 # # # print("Starting Login Process....")
 #
 username_login = "joseph96ojj@gmail.com"
-password_login = "@Anfield96"
+password_login = ""
  # #japan account
 # username_login = "manaaa1209@gmail.com"
 # password_login = "itsmana1209"
@@ -69,12 +69,10 @@ password_login = "@Anfield96"
 
 #london
 #
-# username_login = "zoehu97@gmail.com"
-# password_login = "Hqy@123@Hqy"
+
 
 #Tokyo
-# username_login = "mami.nishimoto@accenture.com"
-# password_login = "TMGAccess"
+
 
 
 username_finder = driver.find_element_by_id("username")
